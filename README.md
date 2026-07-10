@@ -55,6 +55,3 @@ Here is what i have mastered so far
 
   <br/>
   <br/>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radhi223&layout=compact&theme=dark)
