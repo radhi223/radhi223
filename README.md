@@ -1,6 +1,6 @@
 # Introduction
 
-Hi There, if you want to know more about me then here ya go:
+Hi There, here's my info :
 - **Name:** Muhammad Radhi Maulana
 - **Field of Study:** Computer Science
 - **Current Occupation:** Bachelor Student
