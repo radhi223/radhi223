@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="GitHub Profile Banner.png" alt="Banner" width="900" height="auto" />
+</p>
+
+
 <div align=center>
 
   # Introduction
