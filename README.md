@@ -48,10 +48,22 @@ Here is what i have mastered so far
 
 
 ---
-<p align="left">
-<a href="https://github.com/radhi223">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=radhi223&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Schnee111&theme=radical&commits_year=2026&hide=issues&show_icons=true&hide_border=true&border_radius=25&rank_icon=github&line_height=30&card_width=400" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schnee111&hide=jupyter%20notebook,HTML,CSS&layout=compact&theme=radical&hide_border=true&border_radius=25&langs_count=8&card_width=300" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Schnee111&theme=radical&hide_border=true&border_radius=25&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" />
+  </a>
+
+  <br/>
+  <br/>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyessin12&layout=compact&theme=dark)
