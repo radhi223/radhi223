@@ -1,4 +1,8 @@
-# Introduction
+<div align=center>
+
+  # Introduction
+
+</div>
 
 Hi There, here's my info :
 - **Name:** Muhammad Radhi Maulana
@@ -6,6 +10,7 @@ Hi There, here's my info :
 - **Current Occupation:** Bachelor Student
 - **Current Institution:** Indonesia's University of Education (UPI)
 - **Interests:** Android/IOS Development, Fullstack development, Backend development, and a bit of Devops
+<div align="center">
 
 ## Tools & Technologies
 
@@ -55,3 +60,4 @@ Here is what i have mastered so far
 
   <br/>
   <br/>
+</div>
